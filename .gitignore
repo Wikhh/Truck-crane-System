@@ -1,0 +1,17 @@
+**/Objects/
+**/Listings/
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.dep
+*.build_log.htm
+*.uvguix.*
+.DS_Store
+Thumbs.db
